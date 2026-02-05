@@ -46,6 +46,10 @@ footer {
     margin-left: auto;
 }
 
+#studenthero {
+    width: 300px;
+}
+
 #homehero {
     background-image: url('/images/homehero.jpg');
 }
