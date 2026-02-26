@@ -26,9 +26,6 @@ nav {
 #hero {
     background-color: rgb(255, 234, 0);
     height: 450px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
     grid-row: 3 / 4;
     grid-column: 1 / -1;
 }
